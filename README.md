@@ -1,0 +1,2 @@
+# Django-grants
+Affiliated grants
